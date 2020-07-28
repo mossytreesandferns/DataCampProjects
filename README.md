@@ -5,6 +5,8 @@ ABTestingGames.ipynb - analyzing data on a game and implementing an AB test <br>
 <br>
 TheAndroidAppMarketonGooglePlay.ipynb - analysis of data for apps on Google Play. <br>
 <br>
+NaiveBeesDeepLearning.ipynb - processing images of bees with a deep learning CNN for image recognition. <br>
+<br>
 NaiveBeesImgLoadProcess.ipynb - processing images of bees for image recognition algorithms. <br>
 <br>
 NaiveBeesPredSpeciesFromImages.ipynb - predicting bee species from images. <br>
